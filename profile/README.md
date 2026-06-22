@@ -1,6 +1,6 @@
 ## Welcome to Knowledge Engineering @ UoL 👋
 
-This organisation provides links to contributions from the Knowledge Engineering group, which is part of the [Neuro-symbolic AI and knowledge engineering](https://www.liverpool.ac.uk/computer-science-and-informatics/research/artificial-intelligence/neuro-symolic-ai-knowlege-engineering/) research group at the University of Liverpool. You can find references to our software, libraries, and datasets below, along with their documentation and instructions for use. If you have any questions, please feel free to get in touch with us.
+We are part of the [Neuro-symbolic AI and knowledge engineering](https://www.liverpool.ac.uk/computer-science-and-informatics/research/artificial-intelligence/neuro-symolic-ai-knowlege-engineering/) research group at the University of Liverpool. You can find references to our software, libraries, and datasets below, along with their documentation and instructions for use. If you have any questions, please feel free to get in touch with us.
 
 ### 💻 Software and libraries
 
